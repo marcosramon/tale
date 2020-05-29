@@ -6,6 +6,7 @@ author: "Marcos Ramon"
 ---
 
 <iframe src="https://anchor.fm/podcastficcoes/embed/episodes/Youtube-e-podcasts-e43ef4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 [Pesquisa recente do Ibope](https://piaui.folha.uol.com.br/quatro-em-cada-dez-internautas-ja-ouviram-podcast-no-brasil/) mostrou que a maioria dos ouvintes utiliza o Youtube para ouvir podcasts.
 
 [Download do episódio em mp3](https://drive.google.com/file/d/1OtE3AzuhB-msz8X6kGY4PIJCl25ZFdq3/view?usp=sharing)
