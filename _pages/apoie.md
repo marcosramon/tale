@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Apoie"
+author: "Marcos Ramon"
 permalink: /apoie/
-excerpt: "Me ajude a continuar produzindo"
-last_modified_at: 2019-06-04T15:15:09-04:00
 ---
 
 Se você gosta do que produzo e algo que eu criei é importante para você ou te inspirou de alguma forma, considere me apoiar. Quero continuar desenvolvendo conteúdo de forma independente, e sua ajuda é muito importante. Veja aqui algumas maneiras de me ajudar a continuar produzindo:
