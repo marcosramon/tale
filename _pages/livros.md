@@ -9,9 +9,13 @@ permalink: /livros/
 
 Tenho dois livros autopublicados. Eles estão disponíveis, em ebook, no site da Amazon. Se você ler, faça uma análise no [Goodreads](https://www.goodreads.com/author/show/16012578.Marcos_Ramon) ou [Skoob](https://www.skoob.com.br/descompasso-841935ed847109.html). =)
 
-<a href="https://amzn.to/2XAkrWF" target="_blank">![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/estetica-div.png){: .align-left}</a> [A estética da angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XAkrWF) - Este livro propõe, a partir do tema da angústia, uma aproximação entre a filosofia de Arthur Schopenhauer e os quadrinhos de Charles Schulz. Os fundamentos da angústia são apresentados de acordo com a filosofia pessimista de Schopenhauer, propondo em seguida uma relação desta filosofia com o caráter dos Peanuts (Charlie Brown, Lucy, Linus, Snoopy e Schroeder).
+<a href="https://amzn.to/2XAkrWF" target="_blank">![image-left](/assets/images/estetica-div.png)</a>
 
-<a href="https://amzn.to/2XvjDlH" target="_blank">![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/descompasso-div.png){: .align-left}</a> [Descompasso](https://amzn.to/2XvjDlH) - Crônicas e ensaios sobre filosofia, arte, ensino e cotidiano. Neste livro, Marcos Ramon (professor de Filosofia, escritor, podcaster) relata experiências e propõe reflexões sobre a realidade a partir do que observa e vivencia. Um convite a uma forma mais atenta de se olhar o cotidiano.
+[A estética da angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XAkrWF) - Este livro propõe, a partir do tema da angústia, uma aproximação entre a filosofia de Arthur Schopenhauer e os quadrinhos de Charles Schulz. Os fundamentos da angústia são apresentados de acordo com a filosofia pessimista de Schopenhauer, propondo em seguida uma relação desta filosofia com o caráter dos Peanuts (Charlie Brown, Lucy, Linus, Snoopy e Schroeder).
+
+<a href="https://amzn.to/2XvjDlH" target="_blank">!(/assets/images/descompasso-div.png)</a> 
+
+[Descompasso](https://amzn.to/2XvjDlH) - Crônicas e ensaios sobre filosofia, arte, ensino e cotidiano. Neste livro, Marcos Ramon (professor de Filosofia, escritor, podcaster) relata experiências e propõe reflexões sobre a realidade a partir do que observa e vivencia. Um convite a uma forma mais atenta de se olhar o cotidiano.
  
 ## Capítulos de livro
 
