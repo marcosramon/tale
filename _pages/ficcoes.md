@@ -1,10 +1,8 @@
 ---
-title: Ficções
-layout: collection
-excerpt: "Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades."
-permalink: /ficcoes/
-sort_order: forward
-collection: ficcoes
+layout: post
+title: "Ficções"
+author: "Marcos Ramon"
+permalink: /sobre/
 ---
 
 <a href="https://twitter.com/PodcastFiccoes" class="btn btn--info"><i class="fab fa-twitter"></i> @PodcastFiccoes</a>
