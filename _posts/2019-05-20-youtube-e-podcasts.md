@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Youtube e podcasts"
+categories: ficcoes
 author: "Marcos Ramon"
 ---
 
