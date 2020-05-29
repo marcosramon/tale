@@ -2,7 +2,7 @@
 layout: post
 title: "Ficções"
 author: "Marcos Ramon"
-permalink: /sobre/
+permalink: /ficcoes/
 ---
 
 <a href="https://twitter.com/PodcastFiccoes" class="btn btn--info"><i class="fab fa-twitter"></i> @PodcastFiccoes</a>
@@ -11,10 +11,7 @@ permalink: /sobre/
 
 ---
 
-[<i class="fab fa-spotify"></i> Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA){: .btn .btn--success} 
-[<i class="fab fa-google"></i> Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz){: .btn .btn--primary} 
-[<i class="fas fa-podcast"></i> Apple Podcasts](https://podcasts.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?itsct=podcast_box&amp;itscg=30200){: .btn .btn--danger}
-[<i class="fas fa-rss"></i> RSS](https://anchor.fm/s/a9c85b0/podcast/rss){: .btn .btn--warning}
+[<i class="fab fa-spotify"></i> Spotify](https://open.spotify.com/show/1smphr2Sl3kHncMYB984rc?si=Ds7GV4oNQnGxsm-bxYvasA){: .btn .btn--success} | [<i class="fab fa-google"></i> Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWM4NWIwL3BvZGNhc3QvcnNz){: .btn .btn--primary} | [<i class="fas fa-podcast"></i> Apple Podcasts](https://podcasts.apple.com/br/podcast/fic%C3%A7%C3%B5es/id967600465?itsct=podcast_box&amp;itscg=30200){: .btn .btn--danger} | [<i class="fas fa-rss"></i> RSS](https://anchor.fm/s/a9c85b0/podcast/rss){: .btn .btn--warning}
 
 Um podcast sobre narrativas filosóficas. A proposta é analisar os discursos filosóficos sobre o cotidiano como sendo construções, invenções, e não verdades.
 
