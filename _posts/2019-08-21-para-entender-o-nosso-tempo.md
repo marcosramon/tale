@@ -3,6 +3,7 @@ layout: post
 title:  "Para entender o nosso tempo"
 author: "Marcos Ramon"
 published: true
+categories: blog
 comments: true
 ---
 
