@@ -13,7 +13,7 @@ Tenho dois livros autopublicados. Eles estão disponíveis, em ebook, no site da
 
 [A estética da angústia: uma aproximação entre Schopenhauer e os Peanuts](https://amzn.to/2XAkrWF) - Este livro propõe, a partir do tema da angústia, uma aproximação entre a filosofia de Arthur Schopenhauer e os quadrinhos de Charles Schulz. Os fundamentos da angústia são apresentados de acordo com a filosofia pessimista de Schopenhauer, propondo em seguida uma relação desta filosofia com o caráter dos Peanuts (Charlie Brown, Lucy, Linus, Snoopy e Schroeder).
 
-<a href="https://amzn.to/2XvjDlH" target="_blank">!(/assets/images/descompasso-div.png)</a> 
+<a href="https://amzn.to/2XvjDlH" target="_blank">![](/assets/images/descompasso-div.png)</a> 
 
 [Descompasso](https://amzn.to/2XvjDlH) - Crônicas e ensaios sobre filosofia, arte, ensino e cotidiano. Neste livro, Marcos Ramon (professor de Filosofia, escritor, podcaster) relata experiências e propõe reflexões sobre a realidade a partir do que observa e vivencia. Um convite a uma forma mais atenta de se olhar o cotidiano.
  
